@@ -1,22 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b02adb9-2375-4d80-a5f6-659d67135137" name="Default Changelist" comment="" />
+    <list default="true" id="6b02adb9-2375-4d80-a5f6-659d67135137" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VOu1aYnRzUX5HdRSrus3emiKYQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AP-Project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,7 +77,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577136247355</updated>
+      <workItem from="1577136250801" duration="2086000" />
+      <workItem from="1577183847471" duration="338000" />
+      <workItem from="1577184221919" duration="4244000" />
+      <workItem from="1577288958156" duration="4891000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="101" width="1000" height="853" key="#ESLint" timestamp="1577184160140">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="455" y="101" width="1000" height="853" key="#ESLint/0.27.1920.987@0.27.1920.987" timestamp="1577184160140" />
+    <state width="1864" height="213" key="GridCell.Tab.0.bottom" timestamp="1577184187906">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1577184187906" />
+    <state width="1864" height="213" key="GridCell.Tab.0.center" timestamp="1577184187906">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1577184187906" />
+    <state width="1864" height="213" key="GridCell.Tab.0.left" timestamp="1577184187905">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1577184187905" />
+    <state width="1864" height="213" key="GridCell.Tab.0.right" timestamp="1577184187906">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="1864" height="213" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1577184187906" />
+    <state x="325" y="68" width="1269" height="912" key="SettingsEditor" timestamp="1577136511069">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="325" y="68" width="1269" height="912" key="SettingsEditor/0.27.1920.987@0.27.1920.987" timestamp="1577136511069" />
+    <state x="538" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1577288954858">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="538" y="309" key="com.intellij.ide.util.TipDialog/0.27.1920.987@0.27.1920.987" timestamp="1577288954858" />
   </component>
 </project>
