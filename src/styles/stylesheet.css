@@ -1,0 +1,36 @@
+html {
+    font-size: 1rem;
+
+}
+
+h1 {
+    font-family: "billabong", cursive;
+    font-size: 10rem;
+    font-weight: 100;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+
+@font-face {
+    font-family: "billabong";
+    src: url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.eot?#iefix") format('embedded-opentype '), url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/ billabong-webfont.woff") format('woff'), url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.ttf ") format('truetype'), url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.svg#billabongregular") format('svg');
+}
+
+
+.PhotoGrid {
+    max-width: 1000px;
+    display: flex;
+    margin: auto auto;
+    flex-wrap: wrap;
+
+}
+
+
+.figure {
+    flex-basis: calc(33% - 4rem);
+    border: 3px solid #282c34;
+    padding: 2rem;
+    flex-grow: 1;
+    margin: 0 2rem 2rem 2rem;
+}

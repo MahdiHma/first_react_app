@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b02adb9-2375-4d80-a5f6-659d67135137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Photo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PhotoGrid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Photo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PhotoGrid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PhotoWall.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +119,7 @@
       <workItem from="1581884449171" duration="616000" />
       <workItem from="1582832829268" duration="935000" />
       <workItem from="1583518388199" duration="6464000" />
-      <workItem from="1583616340842" duration="16937000" />
+      <workItem from="1583616340842" duration="21559000" />
     </task>
     <task id="LOCAL-00001" summary="began">
       <created>1577301580371</created>
@@ -193,6 +195,10 @@
       <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state x="122" y="34" width="1665" height="980" key="new project wizard/0.27.1920.987@0.27.1920.987" timestamp="1582833073037" />
+    <state x="540" y="232" key="run.anything.popup" timestamp="1583773196559">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="540" y="232" key="run.anything.popup/0.27.1920.987@0.27.1920.987" timestamp="1583773196559" />
     <state x="539" y="26" width="840" height="1034" key="search.everywhere.popup" timestamp="1577443611031">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
