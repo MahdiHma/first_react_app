@@ -9,8 +9,8 @@ class Photo extends Component {
                 <p>
                     {photo.description}
                 </p>
-                <div>
-                    <button> Remove</button>
+                <div className={"button-container"}>
+                    <button className={"remove-button"}> Remove</button>
                 </div>
 
             </figcaption>
