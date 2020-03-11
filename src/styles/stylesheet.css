@@ -1,6 +1,12 @@
 html {
     font-size: 1rem;
+    font-family: sans-serif;
 
+}
+
+p {
+    font-size: 1.6rem;
+    line-height: 1.5;
 }
 
 h1 {
@@ -33,4 +39,9 @@ h1 {
     padding: 2rem;
     flex-grow: 1;
     margin: 0 2rem 2rem 2rem;
+}
+
+.photo {
+    width: calc(100% + 4rem);
+    margin: -2rem 0 0 -2rem;
 }
