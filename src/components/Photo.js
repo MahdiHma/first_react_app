@@ -10,7 +10,10 @@ class Photo extends Component {
                     {photo.description}
                 </p>
                 <div className={"button-container"}>
-                    <button className={"remove-button"}> Remove</button>
+                    <button className={"remove-button"} onClick={() => {
+                        this.props.onRemove(photo)
+                    }}> Remove
+                    </button>
                 </div>
 
             </figcaption>
