@@ -46,15 +46,26 @@ h1 {
     margin: -2rem 0 0 -2rem;
 }
 
-.button-container{
+.button-container {
     display: flex;
     justify-content: center;
 }
 
-.remove-button{
+.remove-button {
     flex-basis: 30%;
     min-height: 2.5rem;
     color: orangered;
     font-size: 1rem;
     border: 2px solid crimson;
+}
+
+.add-item {
+    margin: 20px auto;
+    display: table;
+    padding: 40px;
+    background: url("https://image.flaticon.com/icons/svg/60/60740.svg") center no-repeat;
+    background-size: contain;
+    border: none;
+
+
 }
